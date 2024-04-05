@@ -1,19 +1,21 @@
 # Handwritten Digit Recognition
 
 ## Setup
+
 Create a python virtual environment on your system using
-```
+
+```zsh
 python -m venv .venv
 ```
+
 To activate the virtual environment run
-```
+
+```zsh
 source .venv/bin/activate
 ```
-For non mac users, install the necessary dependencies using
-```
+
+Install the necessary dependencies using
+
+```zsh
 pip install -r requirements.txt
-```
-For mac users run
-```
-pip install -r requirements_mac.txt
 ```
