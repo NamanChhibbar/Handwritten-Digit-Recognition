@@ -1,3 +1,7 @@
+"""
+Utility functions
+"""
+
 import torch
 
 def get_torch_device():
